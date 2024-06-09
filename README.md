@@ -1,2 +1,1 @@
-# fastapi-jwt-oauth
-A simple fastapi website with jwt and oauth 
+A simple fasta pi app with jwt, auth and oauth
